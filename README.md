@@ -2,6 +2,7 @@
 
 ## 📌 Project Overview
 An interactive Mobile Sales Dashboard developed using Microsoft Power BI to analyze mobile sales performance and present business insights through data visualization.
+![Mobile Sales Dashboard](Screenshot%202026-11-07%20190440.png)
 
 ## 🛠️ Tools & Technologies
 - Microsoft Power BI
